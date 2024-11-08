@@ -1,0 +1,101 @@
+name,category,sub_category,price,status,stock
+Product 1,Electronics,Computers,52.5,Available,50
+Product 2,Accessories,Audio,55.0,Out of Stock,43
+Product 3,Apparel,Footwear,57.5,Limited Stock,98
+Product 4,Home & Kitchen,Appliances,60.0,Back Order,92
+Product 5,Electronics,Computers,62.5,Available,83
+Product 6,Accessories,Audio,65.0,Out of Stock,71
+Product 7,Apparel,Footwear,67.5,Limited Stock,10
+Product 8,Home & Kitchen,Appliances,70.0,Back Order,58
+Product 9,Electronics,Computers,72.5,Available,32
+Product 10,Accessories,Audio,75.0,Out of Stock,100
+Product 11,Apparel,Footwear,77.5,Limited Stock,14
+Product 12,Home & Kitchen,Appliances,80.0,Back Order,24
+Product 13,Electronics,Computers,82.5,Available,43
+Product 14,Accessories,Audio,85.0,Out of Stock,9
+Product 15,Apparel,Footwear,87.5,Limited Stock,73
+Product 16,Home & Kitchen,Appliances,90.0,Back Order,77
+Product 17,Electronics,Computers,92.5,Available,87
+Product 18,Accessories,Audio,95.0,Out of Stock,54
+Product 19,Apparel,Footwear,97.5,Limited Stock,9
+Product 20,Home & Kitchen,Appliances,100.0,Back Order,92
+Product 21,Electronics,Computers,102.5,Available,34
+Product 22,Accessories,Audio,105.0,Out of Stock,80
+Product 23,Apparel,Footwear,107.5,Limited Stock,28
+Product 24,Home & Kitchen,Appliances,110.0,Back Order,43
+Product 25,Electronics,Computers,112.5,Available,37
+Product 26,Accessories,Audio,115.0,Out of Stock,31
+Product 27,Apparel,Footwear,117.5,Limited Stock,72
+Product 28,Home & Kitchen,Appliances,120.0,Back Order,76
+Product 29,Electronics,Computers,122.5,Available,24
+Product 30,Accessories,Audio,125.0,Out of Stock,1
+Product 31,Apparel,Footwear,127.5,Limited Stock,59
+Product 32,Home & Kitchen,Appliances,130.0,Back Order,43
+Product 33,Electronics,Computers,132.5,Available,3
+Product 34,Accessories,Audio,135.0,Out of Stock,90
+Product 35,Apparel,Footwear,137.5,Limited Stock,35
+Product 36,Home & Kitchen,Appliances,140.0,Back Order,64
+Product 37,Electronics,Computers,142.5,Available,60
+Product 38,Accessories,Audio,145.0,Out of Stock,100
+Product 39,Apparel,Footwear,147.5,Limited Stock,24
+Product 40,Home & Kitchen,Appliances,150.0,Back Order,15
+Product 41,Electronics,Computers,152.5,Available,0
+Product 42,Accessories,Audio,155.0,Out of Stock,44
+Product 43,Apparel,Footwear,157.5,Limited Stock,18
+Product 44,Home & Kitchen,Appliances,160.0,Back Order,66
+Product 45,Electronics,Computers,162.5,Available,61
+Product 46,Accessories,Audio,165.0,Out of Stock,17
+Product 47,Apparel,Footwear,167.5,Limited Stock,92
+Product 48,Home & Kitchen,Appliances,170.0,Back Order,36
+Product 49,Electronics,Computers,172.5,Available,72
+Product 50,Accessories,Audio,175.0,Out of Stock,50
+Product 51,Apparel,Footwear,177.5,Limited Stock,50
+Product 52,Home & Kitchen,Appliances,180.0,Back Order,83
+Product 53,Electronics,Computers,182.5,Available,32
+Product 54,Accessories,Audio,185.0,Out of Stock,94
+Product 55,Apparel,Footwear,187.5,Limited Stock,12
+Product 56,Home & Kitchen,Appliances,190.0,Back Order,66
+Product 57,Electronics,Computers,192.5,Available,63
+Product 58,Accessories,Audio,195.0,Out of Stock,59
+Product 59,Apparel,Footwear,197.5,Limited Stock,74
+Product 60,Home & Kitchen,Appliances,200.0,Back Order,67
+Product 61,Electronics,Computers,202.5,Available,100
+Product 62,Accessories,Audio,205.0,Out of Stock,69
+Product 63,Apparel,Footwear,207.5,Limited Stock,12
+Product 64,Home & Kitchen,Appliances,210.0,Back Order,93
+Product 65,Electronics,Computers,212.5,Available,15
+Product 66,Accessories,Audio,215.0,Out of Stock,18
+Product 67,Apparel,Footwear,217.5,Limited Stock,68
+Product 68,Home & Kitchen,Appliances,220.0,Back Order,6
+Product 69,Electronics,Computers,222.5,Available,28
+Product 70,Accessories,Audio,225.0,Out of Stock,27
+Product 71,Apparel,Footwear,227.5,Limited Stock,47
+Product 72,Home & Kitchen,Appliances,230.0,Back Order,38
+Product 73,Electronics,Computers,232.5,Available,63
+Product 74,Accessories,Audio,235.0,Out of Stock,27
+Product 75,Apparel,Footwear,237.5,Limited Stock,85
+Product 76,Home & Kitchen,Appliances,240.0,Back Order,4
+Product 77,Electronics,Computers,242.5,Available,36
+Product 78,Accessories,Audio,245.0,Out of Stock,57
+Product 79,Apparel,Footwear,247.5,Limited Stock,91
+Product 80,Home & Kitchen,Appliances,250.0,Back Order,40
+Product 81,Electronics,Computers,252.5,Available,90
+Product 82,Accessories,Audio,255.0,Out of Stock,56
+Product 83,Apparel,Footwear,257.5,Limited Stock,54
+Product 84,Home & Kitchen,Appliances,260.0,Back Order,9
+Product 85,Electronics,Computers,262.5,Available,70
+Product 86,Accessories,Audio,265.0,Out of Stock,41
+Product 87,Apparel,Footwear,267.5,Limited Stock,16
+Product 88,Home & Kitchen,Appliances,270.0,Back Order,29
+Product 89,Electronics,Computers,272.5,Available,74
+Product 90,Accessories,Audio,275.0,Out of Stock,78
+Product 91,Apparel,Footwear,277.5,Limited Stock,17
+Product 92,Home & Kitchen,Appliances,280.0,Back Order,3
+Product 93,Electronics,Computers,282.5,Available,42
+Product 94,Accessories,Audio,285.0,Out of Stock,54
+Product 95,Apparel,Footwear,287.5,Limited Stock,0
+Product 96,Home & Kitchen,Appliances,290.0,Back Order,81
+Product 97,Electronics,Computers,292.5,Available,0
+Product 98,Accessories,Audio,295.0,Out of Stock,10
+Product 99,Apparel,Footwear,297.5,Limited Stock,52
+Product 100,Home & Kitchen,Appliances,300.0,Back Order,59
